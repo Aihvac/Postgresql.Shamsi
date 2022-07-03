@@ -1,4 +1,4 @@
-# توابع تبدیل تاریخ به شمسی در دیتا بیس پستگرس
+# توابع تبدیل تاریخ میلادی به شمسی در دیتابیس پستگرس
 Convert Date to Persian and Create Calendar Hijri
 
 # PostgreSQL Persian Date Functions
