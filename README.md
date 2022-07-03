@@ -1,7 +1,5 @@
 # PostgreSQL Persian Date Functions
-
-### A repository of custom PostgreSQL functions and extensions
-To convert date from Gregorian to Hijri and also Hijri  to Gregorian ,
+### A repository of custom PostgreSQL functions and extensionsTo convert date from Gregorian to Hijri and also Hijri to Gregorian
 
 
 # توابع تبدیل تاریخ میلادی به شمسی در دیتابیس پستگرس
