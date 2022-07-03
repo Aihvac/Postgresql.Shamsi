@@ -9,7 +9,8 @@
 
 ### در این مخزن از توابع تبدیل تاریخ میلادی به شمسی در آدرس و مخزن زیر استفاده شده است
 
- یکی از توابع تبدیل تاریخ از مخزن موجود در این آدرس   https://github.com/mehdipourfar/pg_jalali_format/blob/master/format_jalali.sql  برگرفته شده است
+ یکی از توابع تبدیل تاریخ از مخزن موجود در این آدرسhttps://github.com/mehdipourfar/pg_jalali_format/blob/master/format_jalali.sql  k که توسظ Mehdi Pourfar    بر گرفته شده است
+ برگرفته شده است
 
 
 
